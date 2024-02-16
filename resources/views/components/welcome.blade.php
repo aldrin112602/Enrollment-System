@@ -1,5 +1,11 @@
 <div class="p-6 lg:p-8 bg-white dark:bg-gray-800 dark:bg-gradient-to-bl dark:from-gray-700/50 dark:via-transparent border-b border-gray-200 dark:border-gray-700">
-    <x-application-logo class="block h-12 w-auto" />
+    <h1 class="mt-8 text-2xl font-medium text-gray-900 dark:text-white">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolores quod ratione ullam nostrum! Libero quae ipsam voluptas provident doloribus pariatur, molestias, repellendus magni aperiam architecto dolore possimus assumenda iste.
+        Repellendus assumenda delectus esse quia, tenetur molestias voluptatum ratione excepturi repellat dicta rem, dignissimos minima alias quasi dolor. Animi, deserunt? Perspiciatis sed neque maxime veniam dolore recusandae consequatur magni porro.
+        Velit reprehenderit aliquid a! Consequatur sit amet ipsa fuga cum nisi distinctio laboriosam libero? Fugit placeat, voluptate recusandae blanditiis perspiciatis voluptatum doloribus delectus quia cupiditate, dolorum eveniet quam laudantium labore.
+        Beatae mollitia recusandae, ipsa eos obcaecati ea officiis consectetur eaque soluta quibusdam eligendi molestias temporibus eveniet quidem enim sequi minus. Porro amet commodi possimus! Assumenda harum itaque autem at quod.
+    </h1>
+    {{-- <x-application-logo class="block h-12 w-auto" />
 
     <h1 class="mt-8 text-2xl font-medium text-gray-900 dark:text-white">
         Welcome to your Jetstream application!
@@ -92,5 +98,5 @@
         <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
             Authentication and registration views are included with Laravel Jetstream, as well as support for user email verification and resetting forgotten passwords. So, you're free to get started with what matters most: building your application.
         </p>
-    </div>
+    </div> --}}
 </div>
